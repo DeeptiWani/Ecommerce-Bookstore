@@ -46,18 +46,18 @@ This project is an e-commerce website for a bookstore, allowing users to browse 
 1. Open a web browser and go to http://localhost:8080/bookstore (assuming default Tomcat configuration).
 2. You can now explore the bookstore and its features.
    
-### Usage
+# Usage
 
 ## User Roles:
 
 - **Customer**: Can browse books, add to cart, and purchase.
 - **Admin:** Can manage books, view orders, and manage users.
   
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
