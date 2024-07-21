@@ -52,7 +52,7 @@ This project is an e-commerce website for a bookstore, allowing users to browse 
 
 - **Customer**: Can browse books, add to cart, and purchase.
 - **Admin:** Can manage books, view orders, and manage users.
-- 
+  
 ### Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
